@@ -40,3 +40,10 @@ I am a student of informatics and computer engineering education at Universitas 
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">My Activities</h3>
+
+<img src="img/divider.svg" width="100%" />
+
