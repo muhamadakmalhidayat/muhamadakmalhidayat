@@ -45,16 +45,16 @@ I am a student of informatics and computer engineering education at Universitas 
 
 <h3 align="center">My Activities</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="img/badminton.gif" width="320" />
-    </td>
-    <td>
-      <img src="img/sepakbola.gif" width="320" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="left" width="340"
+    src="img/sepakbola.gif" />
+
+  <img align="right" width="340"
+    src="img/badminton.gif" />
+</p>
+
+<br clear="both" />
+
 
 
 
