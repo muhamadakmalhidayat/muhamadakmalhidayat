@@ -46,8 +46,8 @@ I am a student of informatics and computer engineering education at Universitas 
 <h3 align="center">My Activities</h3>
 
 <p align="center">
-  <img src="img/badminton.gif" width="500" />
-  <img src="img/sepakbola.gif" width="500" />
+  <img src="img/badminton.gif" width="200" />
+  <img src="img/sepakbola.gif" width="200" />
 </p>
 
 
