@@ -45,8 +45,15 @@ I am a student of informatics and computer engineering education at Universitas 
 
 <h3 align="center">My Activities</h3>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa250MzZkN2k3M2xucWRhazlicXBvb2NzOWhndm5ndmxpZTgwNHc4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMTmlrcnRvLF2I7nvp/giphy.gif" width="400" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNlaHd0dm5wY2Z6azZtandnc3ZoNmU4Zzhhc2s2NnRzYXQza3ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif" width="400" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa250MzZkN2k3M2xucWRhazlicXBvb2NzOWhndm5ndmxpZTgwNHc4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMTmlrcnRvLF2I7nvp/giphy.gif" width="180">
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNlaHd0dm5wY2Z6azZtandnc3ZoNmU4Zzhhc2s2NnRzYXQza3ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif" width="180">
+    </td>
+  </tr>
+</table>
+
 
