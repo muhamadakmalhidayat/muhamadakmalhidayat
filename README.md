@@ -38,20 +38,12 @@ I am a student of informatics and computer engineering education at Universitas 
 <br clear="both" />
 
 <p align="center">
-  <img width="750" src="img/komputer.gif" />
-</p>
-
-<p align="center">
-  <img width="370" src="img/spotify.png" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="370" rounded src="img/lagu.gif" />
+  <img width="775" src="img/komputer.gif" />
 </p>
 
 ---
 
 <h2 align="center">Play Games With Me</h2>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/pacman-contribution-graph-dark.svg">
