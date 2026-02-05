@@ -48,7 +48,7 @@ I am a student of informatics and computer engineering education at Universitas 
 <p align="center">
   <img width="370" src="img/barcelona.gif" />
   &nbsp;&nbsp;&nbsp;
-  <img width="370" rounded src="img/badminton.gif" />
+  <img width="370" rounded src="img/badminton1.gif" />
 </p>
 
 <br clear="both" />
