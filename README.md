@@ -52,7 +52,3 @@ I am a student of informatics and computer engineering education at Universitas 
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/snake.svg" alt="Snake animation" />
-
-###
