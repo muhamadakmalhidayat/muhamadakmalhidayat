@@ -54,7 +54,7 @@ I am a student of informatics and computer engineering education at Universitas 
 <br clear="both" />
 
 <p align="center">
-  <img width="700" src="img/komputer.gif" />
+  <img width="735" src="img/komputer.gif" />
 </p>
 
 
