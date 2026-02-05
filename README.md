@@ -47,10 +47,10 @@ I am a student of informatics and computer engineering education at Universitas 
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle">
+    <td>
       <img src="img/badminton.gif" width="320" />
     </td>
-    <td align="center" valign="middle">
+    <td>
       <img src="img/sepakbola.gif" width="320" />
     </td>
   </tr>
