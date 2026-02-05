@@ -16,3 +16,25 @@ Here are some ideas to get you started:
 -->
 
 I am a student of informatics and computer engineering education at Universitas Negeri Jakarta (UNJ). I have always wanted to learn about things related to programming and technology. I study programming and technology because I want to know how to develop an application or website that is widely used or accessed by many people, and I also want to train my critical thinking skills.
+
+<h5 align="center">Skills & Technologies</h5>
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,figma,npm,vite,nextjs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+    </td>
+  </tr>
+</table>
