@@ -1,25 +1,10 @@
 ![muhamadakmalhidayat](img/github-header-banner.png)
 
-<!--
-**muhamadakmalhidayat/muhamadakmalhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am a student of informatics and computer engineering education at Universitas Negeri Jakarta (UNJ). I have always wanted to learn about things related to programming and technology. I study programming and technology because I want to know how to develop an application or website that is widely used or accessed by many people, and I also want to train my critical thinking skills.
 
 ---
 
-<h3 align="center">Skills & Technologies</h3>
+<h2 align="center">Skills & Technologies</h2>
 <table align="center">
   <tr>
     <td><b>Languages</b></td>
@@ -43,8 +28,7 @@ I am a student of informatics and computer engineering education at Universitas 
 
 ---
 
-<h3 align="center">My Activities</h3>
-
+<h2 align="center">My Activities</h2>
 <p align="center">
   <img width="370" src="img/barcelona.gif" />
   &nbsp;&nbsp;&nbsp;
@@ -63,4 +47,20 @@ I am a student of informatics and computer engineering education at Universitas 
   <img width="370" rounded src="img/lagu.gif" />
 </p>
 
+---
 
+<h2 align="center">Play Games With Me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/muhamadakmalhidayat/muhamadakmalhidayat/output/snake.svg" alt="Snake animation" />
+
+###
