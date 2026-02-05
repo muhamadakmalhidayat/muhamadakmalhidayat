@@ -45,7 +45,5 @@ I am a student of informatics and computer engineering education at Universitas 
 
 <h3 align="center">My Activities</h3>
 
-![badminton](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJwZm00eWswNzJ6YngzaW5sOGp3ZHV5cWNnNTNjZms1eDU3NnZhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjAA9nsULA3NHco0dI/giphy.gif)
-
-![sepakbola](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNlaHd0dm5wY2Z6azZtandnc3ZoNmU4Zzhhc2s2NnRzYXQza3ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif)
+![badminton](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa250MzZkN2k3M2xucWRhazlicXBvb2NzOWhndm5ndmxpZTgwNHc4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMTmlrcnRvLF2I7nvp/giphy.gif)![sepakbola](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNlaHd0dm5wY2Z6azZtandnc3ZoNmU4Zzhhc2s2NnRzYXQza3ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif)
 
